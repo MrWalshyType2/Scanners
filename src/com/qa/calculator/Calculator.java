@@ -67,7 +67,6 @@ public class Calculator {
 			num = sc.nextFloat();
 			validInput = true;
 		} while (!(validInput));
-		
 //		sc.close();
 		return num;
 	}
